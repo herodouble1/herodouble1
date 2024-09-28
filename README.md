@@ -2,7 +2,7 @@
 - 👀 I’m interested in tabletennis
 - 🌱 I’m currently learning IT AI DT BT etc.
 - 💞️ I’m looking to collaborate on AI and BT etc.
-- 📫 How to reach me [531663434@qq.com](https://blog.csdn.net/doublewei1)
+- 📫 How to reach me https://blog.csdn.net/doublewei1
 - 😄 Pronouns: Herodouble1
 - ⚡ Fun fact: Making an AI-assistant-robot half of mine.
 
